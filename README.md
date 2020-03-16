@@ -8,6 +8,8 @@
 
 こちらのPipeServerを参考に作成したサンプルプログラム
 
+client側のリポジトリは[こちら](https://github.com/peacemaker07/sample_pipe_client/)
+
 ## Requirement
 
 - Windows10
